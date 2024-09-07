@@ -2,7 +2,7 @@ name: Python application
 
 on:
   schedule:
-    - cron: '*/1 * * * *'
+    - cron: '*/50 * * * *'
   push:
 
 jobs:
@@ -36,4 +36,4 @@ jobs:
         git commit -m 'Update v2ray_configs.txt'
         git push
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{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 }}
