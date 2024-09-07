@@ -30,8 +30,8 @@ jobs:
 
     - name: Commit and push changes
       run: |
-        git config --global user.name 'github-actions'
-        git config --global user.email 'github-actions@github.com'
+        git config --global user.name 'itsamibz'
+        git config --global user.email 'itsami1994@gmail.com'
         git add v2ray_configs.txt
         git commit -m 'Update v2ray_configs.txt'
         git push
