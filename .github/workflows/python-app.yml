@@ -36,4 +36,4 @@ jobs:
         git commit -m 'Update v2ray_configs.txt'
         git push
       env:
-        GITHUB_TOKEN: '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'
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
