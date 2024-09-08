@@ -23,8 +23,8 @@ if response.status_code == 200:
     pattern = r'{"remarks.*?true\}\]\}\}'
     matches = re.findall(pattern, text, re.DOTALL)
     
-    # اضافه کردن کاما بعد از هر true}]}}
-    modified_matches = [match + ',' for match in matches]
+    # اضافه کردن { و },
+    modified_matches = [f'{{{match}}},' for match in matches]
     
     # ذخیره محتوای استخراج شده در فایل
     with open('fragment.txt', 'w', encoding='utf-8') as f:
