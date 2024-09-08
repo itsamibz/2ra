@@ -1,4 +1,4 @@
-vless://ec2aeda9-0c72-4a17-9c64-3ae581099890@104.24.197.20:2082?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2F&security=none&encryption=none&host=cloudflair.com.google.com.icloud.com.shomalegarbemogolabaderefrence.ir&type=httpupgrade#
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.83.58:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#
 👉
 🆔
  @v2ray_configs_pool
@@ -6,7 +6,7 @@ vless://ec2aeda9-0c72-4a17-9c64-3ae581099890@104.24.197.20:2082?Telegram=@v2maxx
 🇨🇦
 Canada
 
-vless://iD--V2RAXX@104.17.148.22:8080?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FV2raxx%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--79qr8bwg980ayroj80c.website.&type=ws#
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.90:2087?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FccXpjwOtX57pqG6C%3Fed%3D2560&security=tls&encryption=none&host=jOiNv2nGFAst-AeB.pAGes.DEV&type=ws&sni=JoiNV2ngfaST-aeb.PagEs.DEV#
 👉
 🆔
  @v2ray_configs_pool
@@ -14,7 +14,7 @@ vless://iD--V2RAXX@104.17.148.22:8080?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@
 🇨🇦
 Canada
 
-vless://ec2aeda9-0c72-4a17-9c64-3ae581099890@172.67.66.177:2082?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2F&security=none&encryption=none&host=cloudflair.com.google.com.icloud.com.shomalegarbemogolabaderefrence.ir&type=httpupgrade#
+vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@104.23.103.47:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=NGINX-H.pages.DEV&fp=randomized&type=ws&sni=NGINX-H.pages.DEV#
 👉
 🆔
  @v2ray_configs_pool
@@ -22,15 +22,7 @@ vless://ec2aeda9-0c72-4a17-9c64-3ae581099890@172.67.66.177:2082?Telegram=@v2maxx
 🇨🇦
 Canada
 
-vless://e1017ed0-cd20-4bf6-8d96-b2a052e19f0c@45.140.167.94:8443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&security=reality&encryption=none&pbk=IqnFESYrPnkV7KUaekX8cL8TSRwDZHuUIKmD0N99Fxc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=104.20.68.118&sid=2880ee24bb417d46#
-👉
-🆔
- @v2ray_configs_pool
-🛜
-🇬🇧
-United Kingdom
-
-vless://f99e4bcb-39f3-5188-96a1-08f56c7ecf16@104.21.51.208:2095?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FTel-ELiV2ry-ELiV2ry-%3Fed%3D2048&security=none&encryption=none&host=rubika.ir.joinTelegram.ELiV2ry.fi2.vless.Sitespeedtest.net.&type=ws#
+vless://c1978266-958c-4aa3-ba34-7eacac75aca1@104.18.15.19:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=bpb-worker-panel3.pages.dev&fp=chrome&type=ws&sni=bpb-worker-panel3.pages.dev#
 👉
 🆔
  @v2ray_configs_pool
@@ -38,7 +30,7 @@ vless://f99e4bcb-39f3-5188-96a1-08f56c7ecf16@104.21.51.208:2095?Telegram=@v2maxx
 🇨🇦
 Canada
 
-vless://5e2a0dff-3392-476d-bbaa-c7b35380495e@104.18.34.21:2053?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=FrEeDOM2.paGES.dEV&type=ws&sni=FrEeDOM2.paGES.dEV#
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.126:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2Fyuyg5ujoovohfscy%3Fed%3D2560&security=tls&encryption=none&host=00e463Dc.beSTVPn-4xi.PAgES.dEv&type=ws&sni=00e463Dc.beSTVPn-4xi.PAgES.dEv#
 👉
 🆔
  @v2ray_configs_pool
@@ -46,15 +38,15 @@ vless://5e2a0dff-3392-476d-bbaa-c7b35380495e@104.18.34.21:2053?Telegram=@v2maxx,
 🇨🇦
 Canada
 
-vless://97b11ee6-a62a-4e60-839c-de974a155089@154.206.12.131:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2Fhajmi%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=hj-de.ttgju.org&type=ws&sni=ttgju.org#
+vless://65cf9a5a-ce26-4972-a1bb-5e1618a95d41@104.17.147.22:80?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2F&security=none&encryption=none&host=3.www.speedtest.net.ftp.debian.org.fixkaran.ir.&type=httpupgrade#
 👉
 🆔
  @v2ray_configs_pool
 🛜
-🇺🇸
-United States
+🇨🇦
+Canada
 
-vless://5c2801c1-3811-463c-9226-5688d702f730@195.211.47.123:4001?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#
+vless://875caaad-60e7-440f-b8e3-5c6f3a536d13@94.182.87.170:9609?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&security=none&encryption=none&host=efvu5cgz.speedtest1.shatel.ir&headerType=http&type=tcp#
 👉
 🆔
  @v2ray_configs_pool
@@ -62,55 +54,7 @@ vless://5c2801c1-3811-463c-9226-5688d702f730@195.211.47.123:4001?Telegram=@v2max
 🇮🇷
 Iran
 
-vless://ec2aeda9-0c72-4a17-9c64-3ae581099890@104.24.197.20:2082?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2F&security=none&encryption=none&host=cloudflair.com.google.com.icloud.com.shomalegarbemogolabaderefrence.ir&type=httpupgrade#
-👉
-🆔
- @v2ray_configs_pool
-🛜
-🇨🇦
-Canada
-
-vless://iD--V2RAXX@104.17.148.22:8080?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FV2raxx%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--79qr8bwg980ayroj80c.website.&type=ws#
-👉
-🆔
- @v2ray_configs_pool
-🛜
-🇨🇦
-Canada
-
-vless://ec2aeda9-0c72-4a17-9c64-3ae581099890@172.67.66.177:2082?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2F&security=none&encryption=none&host=cloudflair.com.google.com.icloud.com.shomalegarbemogolabaderefrence.ir&type=httpupgrade#
-👉
-🆔
- @v2ray_configs_pool
-🛜
-🇨🇦
-Canada
-
-vless://e1017ed0-cd20-4bf6-8d96-b2a052e19f0c@45.140.167.94:8443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&security=reality&encryption=none&pbk=IqnFESYrPnkV7KUaekX8cL8TSRwDZHuUIKmD0N99Fxc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=104.20.68.118&sid=2880ee24bb417d46#
-👉
-🆔
- @v2ray_configs_pool
-🛜
-🇬🇧
-United Kingdom
-
-vless://f99e4bcb-39f3-5188-96a1-08f56c7ecf16@104.21.51.208:2095?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FTel-ELiV2ry-ELiV2ry-%3Fed%3D2048&security=none&encryption=none&host=rubika.ir.joinTelegram.ELiV2ry.fi2.vless.Sitespeedtest.net.&type=ws#
-👉
-🆔
- @v2ray_configs_pool
-🛜
-🇨🇦
-Canada
-
-vless://5e2a0dff-3392-476d-bbaa-c7b35380495e@104.18.34.21:2053?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=FrEeDOM2.paGES.dEV&type=ws&sni=FrEeDOM2.paGES.dEV#
-👉
-🆔
- @v2ray_configs_pool
-🛜
-🇨🇦
-Canada
-
-vless://97b11ee6-a62a-4e60-839c-de974a155089@154.206.12.131:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2Fhajmi%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=hj-de.ttgju.org&type=ws&sni=ttgju.org#
+vless://358eab4b-7db4-4f93-a7b0-5e6f98b7cf45@151.101.2.219:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FW0tvTq4oSbHyKeRM%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=tody.ir.&fp=randomized&type=ws&sni=speedtest.net#
 👉
 🆔
  @v2ray_configs_pool
@@ -118,7 +62,55 @@ vless://97b11ee6-a62a-4e60-839c-de974a155089@154.206.12.131:443?Telegram=@v2maxx
 🇺🇸
 United States
 
-vless://5c2801c1-3811-463c-9226-5688d702f730@195.211.47.123:4001?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.83.58:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#
+👉
+🆔
+ @v2ray_configs_pool
+🛜
+🇨🇦
+Canada
+
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.90:2087?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FccXpjwOtX57pqG6C%3Fed%3D2560&security=tls&encryption=none&host=jOiNv2nGFAst-AeB.pAGes.DEV&type=ws&sni=JoiNV2ngfaST-aeb.PagEs.DEV#
+👉
+🆔
+ @v2ray_configs_pool
+🛜
+🇨🇦
+Canada
+
+vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@104.23.103.47:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=NGINX-H.pages.DEV&fp=randomized&type=ws&sni=NGINX-H.pages.DEV#
+👉
+🆔
+ @v2ray_configs_pool
+🛜
+🇨🇦
+Canada
+
+vless://c1978266-958c-4aa3-ba34-7eacac75aca1@104.18.15.19:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=bpb-worker-panel3.pages.dev&fp=chrome&type=ws&sni=bpb-worker-panel3.pages.dev#
+👉
+🆔
+ @v2ray_configs_pool
+🛜
+🇨🇦
+Canada
+
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.126:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2Fyuyg5ujoovohfscy%3Fed%3D2560&security=tls&encryption=none&host=00e463Dc.beSTVPn-4xi.PAgES.dEv&type=ws&sni=00e463Dc.beSTVPn-4xi.PAgES.dEv#
+👉
+🆔
+ @v2ray_configs_pool
+🛜
+🇨🇦
+Canada
+
+vless://65cf9a5a-ce26-4972-a1bb-5e1618a95d41@104.17.147.22:80?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2F&security=none&encryption=none&host=3.www.speedtest.net.ftp.debian.org.fixkaran.ir.&type=httpupgrade#
+👉
+🆔
+ @v2ray_configs_pool
+🛜
+🇨🇦
+Canada
+
+vless://875caaad-60e7-440f-b8e3-5c6f3a536d13@94.182.87.170:9609?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&security=none&encryption=none&host=efvu5cgz.speedtest1.shatel.ir&headerType=http&type=tcp#
 👉
 🆔
  @v2ray_configs_pool
@@ -126,23 +118,15 @@ vless://5c2801c1-3811-463c-9226-5688d702f730@195.211.47.123:4001?Telegram=@v2max
 🇮🇷
 Iran
 
-vless://ec2aeda9-0c72-4a17-9c64-3ae581099890@104.24.197.20:2082?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2F&security=none&encryption=none&host=cloudflair.com.google.com.icloud.com.shomalegarbemogolabaderefrence.ir&type=httpupgrade#
+vless://358eab4b-7db4-4f93-a7b0-5e6f98b7cf45@151.101.2.219:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FW0tvTq4oSbHyKeRM%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=tody.ir.&fp=randomized&type=ws&sni=speedtest.net#
 👉
 🆔
  @v2ray_configs_pool
 🛜
-🇨🇦
-Canada
+🇺🇸
+United States
 
-vless://iD--V2RAXX@104.17.148.22:8080?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FV2raxx%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--79qr8bwg980ayroj80c.website.&type=ws#
-👉
-🆔
- @v2ray_configs_pool
-🛜
-🇨🇦
-Canada
-
-vless://ec2aeda9-0c72-4a17-9c64-3ae581099890@172.67.66.177:2082?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2F&security=none&encryption=none&host=cloudflair.com.google.com.icloud.com.shomalegarbemogolabaderefrence.ir&type=httpupgrade#
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.83.58:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#
 👉
 🆔
  @v2ray_configs_pool
