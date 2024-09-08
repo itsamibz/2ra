@@ -23,7 +23,7 @@ if response.status_code == 200:
     end = text.find('true}]}}', start)
     
     if start != -1 and end != -1:
-       fragment = text[start:end + len('true}]}}')]
+        fragment = text[start:end + len('true}]}}')]
         
         # ذخیره متن استخراج شده در فایل
         with open('fragment.txt', 'w', encoding='utf-8') as file:
