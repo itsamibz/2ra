@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-import os
+
 
 # لینک تلگرام
 url = "https://t.me/s/v2ray_configs_pool"
