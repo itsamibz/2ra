@@ -2,7 +2,7 @@ name: Python application
 
 on:
   schedule:
-    - cron: '*/50 * * * *'
+    - cron: '*/10 * * * *'
   push:
 
 jobs:
@@ -27,13 +27,16 @@ jobs:
     - name: Run script
       run: |
         python collector.py
-
+        python frag.py
+        
     - name: Commit and push changes
       run: |
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
         git add v2ray_configs.txt
         git commit -m 'Update v2ray_configs.txt'
+        git add fragment.txt
+        git commit -m 'Update fragment.txt'
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
