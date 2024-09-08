@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import re
 
 # لینک مورد نظر
 url = 'https://t.me/s/An0nymousTeam'
@@ -18,19 +19,15 @@ if response.status_code == 200:
     # استخراج متن از HTML
     text = soup.get_text()
     
-    # پیدا کردن متن بین دو عبارت خاص
-    start = text.find('{"remarks')
-    end = text.find('true}]}}', start)
+    # استفاده از regex برای پیدا کردن محتوای بین {"remarks و true}]}}
+    pattern = r'{"remarks.*?true\}\]\}\}'
+    matches = re.findall(pattern, text, re.DOTALL)
     
-    if start != -1 and end != -1:
-        fragment = text[start:end + len('true}]}}')]
-        
-        # ذخیره متن استخراج شده در فایل
-        with open('fragment.txt', 'w', encoding='utf-8') as file:
-            file.write(fragment)
-        
-        print("متن استخراج شده و در فایل ذخیره شد.")
-    else:
-        print("عبارات مورد نظر یافت نشد.")
+    # ذخیره محتوای استخراج شده در فایل
+    with open('fragment.txt', 'w', encoding='utf-8') as f:
+        for match in matches:
+            f.write(match + '\n')
+    
+    print("محتوا با موفقیت استخراج و ذخیره شد.")
 else:
     print(f"خطا در دریافت محتوا: {response.status_code}")
