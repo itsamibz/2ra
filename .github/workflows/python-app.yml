@@ -12,10 +12,10 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
 
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v4
       with:
         python-version: '3.x'
 
@@ -31,12 +31,10 @@ jobs:
         
     - name: Commit and push changes
       run: |
-        git config --global user.name 'github-actions'
-        git config --global user.email 'github-actions@github.com'
-        git add v2ray_configs.txt
-        git commit -m 'Update v2ray_configs.txt'
-        git add fragment.txt
-        git commit -m 'Update fragment.txt'
+        git config --local user.name 'github-actions'
+        git config --local user.email 'github-actions@github.com'
+        git add v2ray_configs.txt fragment.txt
+        git commit -m 'Update v2ray_configs.txt and fragment.txt'
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
