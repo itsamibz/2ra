@@ -1,52 +1,4 @@
-vless://358eab4b-7db4-4f93-a7b0-5e6f98b7cf45@151.101.2.219:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FW0tvTq4oSbHyKeRM%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=tody.ir.&fp=randomized&type=ws&sni=speedtest.net#
-👉
-🆔
- @v2ray_configs_pool
-🛜
-🇺🇸
-United States
-
-vless://%50a%72sa%73%68%6fna%6d-59@185.146.173.39:8880?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2F&serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#
-👉
-🆔
- @v2ray_configs_pool
-🛜
-🇸🇪
-Sweden
-
-vless://bdc32a6b-aaff-44f7-9739-86472afbb601@46.245.75.90:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&security=none&encryption=none&host=fast.com&headerType=http&type=tcp#
-👉
-🆔
- @v2ray_configs_pool
-🛜
-🇮🇷
-Iran
-
-vless://bdc32a6b-aaff-44f7-9739-86472afbb601@46.245.75.90:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&security=none&encryption=none&host=fast.com&headerType=http&type=tcp#
-👉
-🆔
- @v2ray_configs_pool
-🛜
-🇮🇷
-Iran
-
-vless://c9e4f683-ee36-47cf-9c30-f751f1c118b5@194.113.106.139:24984?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&security=reality&encryption=none&pbk=bM_ol-LozWiGNhEGFm8xkaf4TiaOBzrG8R3kybOn2no&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=zula.ir&sid=5292cb10#
-👉
-🆔
- @v2ray_configs_pool
-🛜
-🇷🇺
-Russia
-
-vless://c9e4f683-ee36-47cf-9c30-f751f1c118b5@194.113.106.139:24984?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&security=reality&encryption=none&pbk=bM_ol-LozWiGNhEGFm8xkaf4TiaOBzrG8R3kybOn2no&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=zula.ir&sid=5292cb10#
-👉
-🆔
- @v2ray_configs_pool
-🛜
-🇷🇺
-Russia
-
-vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=de4ecf6b.isvphp-4g8.pages.dev&fp=randomized&type=ws&sni=de4ecf6b.isvphp-4g8.pages.dev#
+vless://e33c881d-45d8-4b94-8763-d9b166aae168@104.17.148.22:2082?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&security=none&type=ws&host=download.ir.shad.ir.bmi.ir.www.speedtest.net.zula.com.aparat.com.spikevpn.cfd&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#
 👉
 🆔
  @v2ray_configs_pool
@@ -54,39 +6,7 @@ vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?Telegram=@v2maxx,@v
 🇨🇦
 Canada
 
-vless://358eab4b-7db4-4f93-a7b0-5e6f98b7cf45@151.101.2.219:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FW0tvTq4oSbHyKeRM%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=tody.ir.&fp=randomized&type=ws&sni=speedtest.net#
-👉
-🆔
- @v2ray_configs_pool
-🛜
-🇺🇸
-United States
-
-vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=de4ecf6b.isvphp-4g8.pages.dev&fp=randomized&type=ws&sni=de4ecf6b.isvphp-4g8.pages.dev#
-👉
-🆔
- @v2ray_configs_pool
-🛜
-🇨🇦
-Canada
-
-vless://358eab4b-7db4-4f93-a7b0-5e6f98b7cf45@151.101.2.219:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FW0tvTq4oSbHyKeRM%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=tody.ir.&fp=randomized&type=ws&sni=speedtest.net#
-👉
-🆔
- @v2ray_configs_pool
-🛜
-🇺🇸
-United States
-
-vless://%50a%72sa%73%68%6fna%6d-59@185.146.173.39:8880?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2F&serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#
-👉
-🆔
- @v2ray_configs_pool
-🛜
-🇸🇪
-Sweden
-
-vless://bdc32a6b-aaff-44f7-9739-86472afbb601@46.245.75.90:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&security=none&encryption=none&host=fast.com&headerType=http&type=tcp#
+vless://f9892049-d18a-4b52-973c-d9b0b0dcebe8@85.198.15.4:47742?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&security=none&type=tcp#
 👉
 🆔
  @v2ray_configs_pool
@@ -94,7 +14,55 @@ vless://bdc32a6b-aaff-44f7-9739-86472afbb601@46.245.75.90:443?Telegram=@v2maxx,@
 🇮🇷
 Iran
 
-vless://bdc32a6b-aaff-44f7-9739-86472afbb601@46.245.75.90:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&security=none&encryption=none&host=fast.com&headerType=http&type=tcp#
+vless://e33c881d-45d8-4b94-8763-d9b166aae168@104.17.148.22:2082?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&security=none&type=ws&host=download.ir.shad.ir.bmi.ir.www.speedtest.net.zula.com.aparat.com.spikevpn.cfd&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#
+👉
+🆔
+ @v2ray_configs_pool
+🛜
+🇨🇦
+Canada
+
+vless://DIGIV2RAy@185.208.173.3:2095?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&type=ws#
+👉
+🆔
+ @v2ray_configs_pool
+🛜
+🇬🇧
+United Kingdom
+
+vless://DIGIV2RAy@185.208.173.3:2095?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.%E5%8F%91%E5%87%BA%E6%9D%A5%E5%B0%B1%E8%A2%AB%E5%90%9E.website.&type=ws#
+👉
+🆔
+ @v2ray_configs_pool
+🛜
+🇬🇧
+United Kingdom
+
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.166:2053?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2F8yBQ1J5QRyH9geks%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=jOinmaHDIseRvEr-ei9.paGES.Dev&fp=randomized&type=ws&sni=JOinmahDiServER-ei9.Pages.dEv#
+👉
+🆔
+ @v2ray_configs_pool
+🛜
+🇨🇦
+Canada
+
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.90:8443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FxSlwpv8aOiNg54Qu%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=jOInMaHdISERVer-Ei9.PAgEs.dEv&fp=randomized&type=ws&sni=jOinMahDiSeRveR-EI9.PAgEs.deV#
+👉
+🆔
+ @v2ray_configs_pool
+🛜
+🇨🇦
+Canada
+
+vless://e33c881d-45d8-4b94-8763-d9b166aae168@104.17.148.22:2082?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&security=none&type=ws&host=download.ir.shad.ir.bmi.ir.www.speedtest.net.zula.com.aparat.com.spikevpn.cfd&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#
+👉
+🆔
+ @v2ray_configs_pool
+🛜
+🇨🇦
+Canada
+
+vless://f9892049-d18a-4b52-973c-d9b0b0dcebe8@85.198.15.4:47742?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&security=none&type=tcp#
 👉
 🆔
  @v2ray_configs_pool
@@ -102,23 +70,7 @@ vless://bdc32a6b-aaff-44f7-9739-86472afbb601@46.245.75.90:443?Telegram=@v2maxx,@
 🇮🇷
 Iran
 
-vless://c9e4f683-ee36-47cf-9c30-f751f1c118b5@194.113.106.139:24984?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&security=reality&encryption=none&pbk=bM_ol-LozWiGNhEGFm8xkaf4TiaOBzrG8R3kybOn2no&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=zula.ir&sid=5292cb10#
-👉
-🆔
- @v2ray_configs_pool
-🛜
-🇷🇺
-Russia
-
-vless://c9e4f683-ee36-47cf-9c30-f751f1c118b5@194.113.106.139:24984?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&security=reality&encryption=none&pbk=bM_ol-LozWiGNhEGFm8xkaf4TiaOBzrG8R3kybOn2no&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=zula.ir&sid=5292cb10#
-👉
-🆔
- @v2ray_configs_pool
-🛜
-🇷🇺
-Russia
-
-vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=de4ecf6b.isvphp-4g8.pages.dev&fp=randomized&type=ws&sni=de4ecf6b.isvphp-4g8.pages.dev#
+vless://e33c881d-45d8-4b94-8763-d9b166aae168@104.17.148.22:2082?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&security=none&type=ws&host=download.ir.shad.ir.bmi.ir.www.speedtest.net.zula.com.aparat.com.spikevpn.cfd&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#
 👉
 🆔
  @v2ray_configs_pool
@@ -126,7 +78,23 @@ vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?Telegram=@v2maxx,@v
 🇨🇦
 Canada
 
-vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=de4ecf6b.isvphp-4g8.pages.dev&fp=randomized&type=ws&sni=de4ecf6b.isvphp-4g8.pages.dev#
+vless://DIGIV2RAy@185.208.173.3:2095?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&type=ws#
+👉
+🆔
+ @v2ray_configs_pool
+🛜
+🇬🇧
+United Kingdom
+
+vless://DIGIV2RAy@185.208.173.3:2095?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.%E5%8F%91%E5%87%BA%E6%9D%A5%E5%B0%B1%E8%A2%AB%E5%90%9E.website.&type=ws#
+👉
+🆔
+ @v2ray_configs_pool
+🛜
+🇬🇧
+United Kingdom
+
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.166:2053?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2F8yBQ1J5QRyH9geks%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=jOinmaHDIseRvEr-ei9.paGES.Dev&fp=randomized&type=ws&sni=JOinmahDiServER-ei9.Pages.dEv#
 👉
 🆔
  @v2ray_configs_pool
@@ -134,19 +102,51 @@ vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?Telegram=@v2maxx,@v
 🇨🇦
 Canada
 
-vless://358eab4b-7db4-4f93-a7b0-5e6f98b7cf45@151.101.2.219:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FW0tvTq4oSbHyKeRM%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=tody.ir.&fp=randomized&type=ws&sni=speedtest.net#
+vless://e33c881d-45d8-4b94-8763-d9b166aae168@104.17.148.22:2082?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&security=none&type=ws&host=download.ir.shad.ir.bmi.ir.www.speedtest.net.zula.com.aparat.com.spikevpn.cfd&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#
 👉
 🆔
  @v2ray_configs_pool
 🛜
-🇺🇸
-United States
+🇨🇦
+Canada
 
-vless://358eab4b-7db4-4f93-a7b0-5e6f98b7cf45@151.101.2.219:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FW0tvTq4oSbHyKeRM%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=tody.ir.&fp=randomized&type=ws&sni=speedtest.net#
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.90:8443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FxSlwpv8aOiNg54Qu%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=jOInMaHdISERVer-Ei9.PAgEs.dEv&fp=randomized&type=ws&sni=jOinMahDiSeRveR-EI9.PAgEs.deV#
 👉
 🆔
  @v2ray_configs_pool
 🛜
-🇺🇸
-United States
+🇨🇦
+Canada
+
+vless://f9892049-d18a-4b52-973c-d9b0b0dcebe8@85.198.15.4:47742?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&security=none&type=tcp#
+👉
+🆔
+ @v2ray_configs_pool
+🛜
+🇮🇷
+Iran
+
+vless://e33c881d-45d8-4b94-8763-d9b166aae168@104.17.148.22:2082?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&security=none&type=ws&host=download.ir.shad.ir.bmi.ir.www.speedtest.net.zula.com.aparat.com.spikevpn.cfd&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#
+👉
+🆔
+ @v2ray_configs_pool
+🛜
+🇨🇦
+Canada
+
+vless://DIGIV2RAy@185.208.173.3:2095?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&type=ws#
+👉
+🆔
+ @v2ray_configs_pool
+🛜
+🇬🇧
+United Kingdom
+
+vless://DIGIV2RAy@185.208.173.3:2095?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.%E5%8F%91%E5%87%BA%E6%9D%A5%E5%B0%B1%E8%A2%AB%E5%90%9E.website.&type=ws#
+👉
+🆔
+ @v2ray_configs_pool
+🛜
+🇬🇧
+United Kingdom
 
